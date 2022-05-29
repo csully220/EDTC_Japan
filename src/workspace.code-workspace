@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"desig.h": "c",
+			"adxl345.h": "c",
+			"stm32f10x_conf.h": "c",
+			"scb.h": "c",
+			"dfu.h": "c",
+			"nvic.h": "c",
+			"gpio.h": "c",
+			"spi.h": "c",
+			"csd_clock.h": "c"
+		}
+	}
+}
